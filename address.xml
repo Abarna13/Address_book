@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="address.xsl"?>
+<addr>
+<book>
+    <sr>1</sr>
+    <name>
+	<fname>SATHISH</fname>
+	<lname>KUMAR</lname>
+    </name>
+    <gender>MALE</gender>
+    <dob>15-07-1991</dob>
+    <phone>9176001457</phone>
+    <contact>
+	<dno>15</dno>
+	<street>MUTHU STREET</street>
+	<city>Chennai</city>
+    </contact>
+    </book>
+<book>
+    <sr>2</sr>
+    <name>
+	<fname>GUNA</fname>
+	<lname>SEKAR</lname>
+    </name>
+    <gender>MALE</gender>
+    <dob>3-10-85</dob>
+    <phone>9876565481</phone>
+    <contact>
+	<dno>65</dno>
+	<street>KAMBAR STREET</street>
+	<city>MADURAI</city>
+    </contact>
+  </book>
+<book>
+    <sr>3</sr>
+    <name>
+	<fname>MUTHU</fname>
+	<lname>KUMARI</lname>
+    </name>
+    <gender>Male</gender>
+    <dob>1-1-2000</dob>
+    <phone>09568745230</phone>
+    <contact>
+	<dno>6</dno>
+	<street>Vivekananda Street</street>
+	<city>DELHI</city>
+    </contact>
+  </book>
+<book>
+    <sr>4</sr>
+    <name>
+	<fname>MAHESH</fname>
+	<lname>SENTHIL</lname>
+    </name>
+    <gender>Male</gender>
+    <dob>31-12-1990</dob>
+    <phone>04564-248756</phone>
+    <contact>
+	<dno>7G</dno>
+	<street>Rainbow Colony</street>
+	<city>THIRUNELVELI</city>
+    </contact>
+  </book>
+<book>
+    <sr>5</sr>
+    <name>
+	<fname>PRAVEEN</fname>
+	<lname>KANTH</lname>
+    </name>
+    <gender>Male</gender>
+    <dob>15-07-1985</dob>
+    <phone>8568745890</phone>
+    <contact>
+	<dno>99</dno>
+	<street>VELACHERY ROAD</street>
+	<city>MEDAVAKKAM</city>
+    </contact>
+</book>
+<book>
+    <sr>6</sr>
+    <name>
+	<fname>KALAI</fname>
+	<lname>PRABAKARAN</lname>
+    </name>
+    <gender>Male</gender>
+    <dob>17-12-1990</dob>
+    <phone>988487817</phone>
+    <contact>
+	<dno>1</dno>
+	<street>V.M. NAGAR</street>
+	<city>AVADI</city>
+    </contact>
+  </book>
+<book>
+    <sr>7</sr>
+    <name>
+	<fname>JONES</fname>
+	<lname>JEBARAJ</lname>
+    </name>
+    <gender>Male</gender>
+    <dob>5-5-2005</dob>
+    <phone>9999999999</phone>
+    <contact>
+	<dno>147</dno>
+	<street>ST.JOSEPH'S BOYS HOSTEL</street>
+	<city>CHENNAI</city>
+    </contact>
+  </book>
+<book>
+    <sr>8</sr>
+    <name>
+	<fname>JOHNY</fname>
+	<lname>SEBASTIN</lname>
+    </name>
+    <gender>Male</gender>
+    <dob>11-09-1990</dob>
+    <phone>9566306560</phone>
+    <contact>
+	<dno>142</dno>
+	<street>ST.JOSEPH'S BOYS HOSTEL</street>
+	<city>CHENNAI</city>
+    </contact>
+  </book>
+<book>
+    <sr>9</sr>
+    <name>
+	<fname>MEERA</fname>
+	<lname>MOHIDDEN</lname>
+    </name>
+    <gender>Male</gender>
+    <dob>01-01-2000</dob>
+    <phone>9898989898</phone>
+    <contact>
+	<dno>420</dno>
+	<street>MOOLAKADAI</street>
+	<city>CHENNAI</city>
+    </contact>
+  </book>
+<book>
+    <sr>10</sr>
+    <name>
+	<fname>MOHAMED</fname>
+	<lname>ABDULLA</lname>
+    </name>
+    <gender>Male</gender>
+    <dob>07-08-1990</dob>
+    <phone>2626262626</phone>
+    <contact>
+	<dno>143</dno>
+	<street>ST.JOSEPH'S BOYS HOSTEL</street>
+	<city>CHENNAI</city>
+    </contact>
+  
+</book>
+</addr> 
